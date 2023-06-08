@@ -1,2 +1,18 @@
 # 1-portfolio
-Meu primeiro portfólio feito com o auxílio do curso de HTML e CSS da Alura.
+```
+
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Andrei Sarmento 
+
+### Linkedin:
